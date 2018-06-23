@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>金泰环球交易.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>8C13B2C92532097E19949444CAD1912BA1A35584</string>
+				<key>dateExpires</key>
+				<string>2019/6/23</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>KD6GKQ742Q.com.jintai.webview</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>KD6GKQ742Q</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>KD6GKQ742Q.com.jintai.webview</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>WKWebViewSwift.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>85b15f6e-b2ed-47dd-a2a5-1747065367fa</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>KD6GKQ742Q</string>
+				<key>name</key>
+				<string>Chen Mao</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
